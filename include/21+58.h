@@ -23,9 +23,3 @@ namespace v5cas {
 }
 
 typedef std::tuple<v5cas::EqSide,v5cas::EqSide> TwoSideEquasion;
-
-
-
-v5cas::EqSide operator""_eqside (std::string istring) {
-
-}
